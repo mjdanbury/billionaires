@@ -1,2 +1,2 @@
 # billionaires
- practicing pandas with billionaires data
+ practicing pandas, matplotlib, and vega-altair with billionaires data
